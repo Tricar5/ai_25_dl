@@ -23,6 +23,7 @@ dependencies = [
     "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
     "selenium>=4.39.0",
+    "sentencepiece>=0.2.1",
     "shap<0.45",
     "sqlalchemy>=2.0.46",
     "streamlit>=1.51.0",
